@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Thariq</h1>
+<h1 align="center">👨‍💻 Thariq Hussain A</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=SOC+Analyst+in+Progress;Cybersecurity+Enthusiast;Wazuh+%7C+Splunk+%7C+Python;Threat+Detection+%26+Incident+Response;AI+Driven+Security+Automation"/>
@@ -42,7 +42,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/Wazuh-SIEM-blue"/>
+<img src="https://img.shields.io/badge/Wazuh-Detection-blue"/>
 <img src="https://img.shields.io/badge/Splunk-Analysis-black"/>
 <img src="https://img.shields.io/badge/Linux-Operations-yellow"/>
 <img src="https://img.shields.io/badge/Python-Automation-green"/>
@@ -62,8 +62,8 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/thariqhussain  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/thariqhussaina/  
+- 📧 Email: thariqhussain.secops@gmail.com  
 
 ---
 
