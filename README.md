@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/SOC-Analyst-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wazuh-SIEM-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Splunk-Log%20Analysis-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge"/>
 </p>
 
 ---
@@ -21,21 +20,23 @@
 
 - 🔹 Cybersecurity enthusiast focused on **SOC operations**
 - 🔹 Hands-on experience in **log analysis & threat detection**
-- 🔹 Building real-world labs using **Wazuh, Splunk & Python**
+- 🔹 Building real-world labs using **Wazuh, Splunk**
 - 🔹 Interested in **AI-driven security automation**
-- 🔹 Continuously learning **incident response & detection engineering**
+- 🔹 Continuously learning **SOC investigation skills**
 
 ---
 
 ## 🚀 Featured Project
 
-### 🛡️ AI SOC Alert Automation
-- Real-time detection using **Wazuh SIEM**
-- MITRE ATT&CK mapping for attack classification
-- AI-based alert explanation using OpenAI
-- Automated alerting via Telegram  
+### 🛡️ SOC Automation
+- End-to-end **SOC automation** using Wazuh SIEM and Shuffle SOAR
+- Automated security alert detection and processing
+- **VirusTotal** threat intelligence enrichment
+- **TheHive** alert and case management
+- Automated **Gmail security notifications**
+- Detection scenarios covering **Mimikatz, RDP brute force, and Active Directory group modification**
 
-👉 https://github.com/iamthariq/AI-SOC-Alert-Automation
+👉 https://github.com/iamthariq/SOC_Automation.git
 
 ---
 
